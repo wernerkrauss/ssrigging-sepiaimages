@@ -1,5 +1,5 @@
 ---
-Name: greyscaleimages
+Name: sepiaimages
 After: 'framework/*','cms/*'
 ---
 # YAML configuration for SilverStripe
@@ -7,4 +7,4 @@ After: 'framework/*','cms/*'
 # Caution: Indentation through two spaces, not tabs
 Image:
   extensions:
-    - 'GreyscaleImages'
+    - 'SepiaImages'

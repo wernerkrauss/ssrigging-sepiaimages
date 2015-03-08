@@ -1,4 +1,4 @@
-SilverStripe Greyscale Images
+SilverStripe Sepia Images
 =============================
 
 ###Warning:
@@ -11,4 +11,8 @@ Installation
 
 Usage
 -----
-Use in templates with `$Image.Greyscale`, or in PHP with `$image->Greyscale()`
+Use in templates with `$Image.Sepia`, or in PHP with `$image->Sepia()`
+
+Thanks
+-----
+to nightjar alias py*k
